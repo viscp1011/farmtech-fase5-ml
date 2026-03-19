@@ -116,10 +116,7 @@ Com os sensores físicos localizados no Brasil, armazenar e processar os dados n
 Manter os dados em território nacional garante que estejam sujeitos à jurisdição brasileira, evitando riscos legais de exposição a legislações estrangeiras (ex: Patriot Act nos EUA).
 
 ### 🎬 Vídeo Demonstrativo – Entrega 2
-
-> ⚠️ Link do vídeo será adicionado aqui após a gravação
->
-> 📹 YouTube (não listado): [LINK_DO_VIDEO_AWS_AQUI]
+https://youtu.be/EdnOF70du4w
 
 ---
 
