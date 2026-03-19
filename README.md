@@ -71,9 +71,7 @@ O notebook contém:
 
 ### 🎬 Vídeo Demonstrativo – Entrega 1
 
-> ⚠️ Link do vídeo será adicionado aqui após a gravação
->
-> 📹 YouTube (não listado): [LINK_DO_VIDEO_AQUI]
+https://youtu.be/R7jMi9idog0
 
 ---
 
